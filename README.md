@@ -10,18 +10,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - [Node.js](https://nodejs.org/en/)
 - [React](https://reactjs.org/)
-- [React Native](https://reactnative.dev/)
-- [Expo](https://expo.io/)
 
 ## :computer: O Projeto
 O **Be The Hero** _(ou "seja o herói" em português)_ é um projeto que visa conectar ONGs _(Organização Não-Governamental)_ com pessoas, ou no caso, os  **heróis** que gostariam de ajudar nos casos das ONGs.
-
-## :thinking: Como contribuir
-1. Faça um fork desse repositório;
-2. Cria uma branch com a sua funcionalidade: `git checkout -b feat/minha-funcionalidade`;
-3. Faça commit das suas alterações: `git commit -m 'Minha nova funcionalidade'`;
-4. Faça push para a sua branch: `git push origin feat/minha-funcionalidade`;
-5. Crie um novo Pull Request.
 
 ## :page_with_curl: Licença
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/joaowicktor/semana-omnistack-11/blob/master/LICENSE) para mais detalhes.
