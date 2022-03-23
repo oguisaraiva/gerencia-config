@@ -2,10 +2,6 @@
 	<img alt="Be The Hero" src="https://user-images.githubusercontent.com/37880123/77852440-18f5c280-71b5-11ea-83c2-26843babb265.png" />
 </h1>
 
-<h3 align="center">Semana OmniStack 11.0</h3>
-
-<blockquote align="center">Projeto desenvolvido durante a Semana OmniStack 11.0 promovida pela Rocketseat.</blockquote>
-
 ![mockup_bethehero](https://user-images.githubusercontent.com/37880123/77853566-14340d00-71bb-11ea-8733-f84d65a77460.jpg)
 
 
